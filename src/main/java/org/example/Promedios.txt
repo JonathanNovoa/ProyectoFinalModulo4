@@ -1,0 +1,44 @@
+Reporte de Calificaciones Cólegio Latinoamericano
+====================================
+
+Alumno: 17.423.112-4 - Juan
+    Materia: MATEMATICAS         
+        Nota: 5.50
+        Nota: 6.00
+        Nota: 5.80
+    Promedio: 5.77
+    Materia: LENGUAJE            
+        Nota: 6.20
+        Nota: 5.90
+        Nota: 6.10
+    Promedio: 6.07
+    Promedio General: 5.92
+---------------------------------
+Alumno: 19.334.567-8 - Pedro
+    Materia: LENGUAJE            
+        Nota: 5.80
+        Nota: 5.50
+    Promedio: 5.65
+    Promedio General: 5.65
+---------------------------------
+Alumno: 18.546.232-1 - María
+    Materia: MATEMATICAS         
+        Nota: 6.50
+        Nota: 6.80
+        Nota: 7.00
+    Promedio: 6.77
+    Materia: HISTORIA            
+        Nota: 6.30
+        Nota: 6.00
+        Nota: 6.40
+    Promedio: 6.23
+    Promedio General: 6.50
+---------------------------------
+
+Resumen del Reporte
+==================
+Total de Alumnos: 3
+Total alumnos Reprobados: 0
+Total alumnos Aprobados: 3
+Promedio General del Curso: 6.02
+Fecha de Generación: 03-12-2024 01:05:45
